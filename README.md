@@ -54,7 +54,12 @@ Some of my previous projects include:
 * 💻 Various programming and systems projects
 
 ---
+## 🤝 Contributions
 
+### 🛒 Retail Inventory Management
+**[retail_inventory](https://github.com/sensational03/retail_inventory)**
+
+Collaborator on a retail inventory management project.
 ## 🛠️ Technologies I Work With
 
 **Languages**
